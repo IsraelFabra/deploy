@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-1e9f53742d10.js"></script>
   
 
-  <title>Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos</title>
+  <title>Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos</title>
 
 
 
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="1D20:5137:231E8C1:23D6DEB:64476763" data-turbo-transient="true" /><meta name="html-safe-nonce" content="4f451d2fd5ac1fbe17a53e4d26a5f53311a8edef9873e5321c78d9c0429f1aab" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DSUZPLVZpb2xldGEtSUZDRDAxMTEtMjIyMy9Qcm95ZWN0b3MiLCJyZXF1ZXN0X2lkIjoiMUQyMDo1MTM3OjIzMUU4QzE6MjNENkRFQjo2NDQ3Njc2MyIsInZpc2l0b3JfaWQiOiI4MTY3NzQzMTY1MzU0MDc2OTUxIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="22398479a8d929ba4a4ca809d7f0f0b295c76fe9a8ea203c74b8365a23e22256" data-turbo-transient="true" />
+  <meta name="request-id" content="1D20:5137:232A118:23E29C9:644767D7" data-turbo-transient="true" /><meta name="html-safe-nonce" content="4f451d2fd5ac1fbe17a53e4d26a5f53311a8edef9873e5321c78d9c0429f1aab" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DSUZPLVZpb2xldGEtSUZDRDAxMTEtMjIyMy9Qcm95ZWN0b3MiLCJyZXF1ZXN0X2lkIjoiMUQyMDo1MTM3OjIzMkExMTg6MjNFMjlDOTo2NDQ3NjdENyIsInZpc2l0b3JfaWQiOiI4MTY3NzQzMTY1MzU0MDc2OTUxIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="99afa05daf1f7245261eafd511ae83ebc994b8bd0bfbfc3bba0c8546892b9843" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:629059756" data-turbo-transient>
@@ -114,16 +114,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos">
+      <meta name="description" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/120409921?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta name="twitter:description" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos" />
-      <meta property="og:image" content="https://avatars.githubusercontent.com/u/120409921?s=400&amp;v=4" /><meta property="og:image:alt" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta property="og:url" content="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta property="og:description" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/README.md at main · CIFO-Violeta-IFCD0111-2223/Proyectos" />
+      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/120409921?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta name="twitter:description" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos" />
+      <meta property="og:image" content="https://avatars.githubusercontent.com/u/120409921?s=400&amp;v=4" /><meta property="og:image:alt" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta property="og:url" content="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos" /><meta property="og:description" content="Rama desarrollo de una webapp en html/css/js/node-express/mysql - Proyectos/server.js at main · CIFO-Violeta-IFCD0111-2223/Proyectos" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/120408854/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjA0MDg4NTQsInMiOjExMDI3MTQ4NjIsImMiOjI1Mzc5MTA5ODQsInQiOjE2ODI0MDExOTN9--a61cd66395c3d536ba753fb4999f5452e48514f498ed895022687d5e175a6915" data-refresh-url="/_alive" data-session-id="8f881b72f460fbac380283ad5d6e418809bf78f2544cf0859538e323c9b8dd63">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/120408854/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjA0MDg4NTQsInMiOjExMDI3MTQ4NjIsImMiOjM2OTYyMDUxMDgsInQiOjE2ODI0MDEyNDl9--6a2ed53a977094e61859a81d1c04430ea5934372fa866f6f2256f902d444cc7e" data-refresh-url="/_alive" data-session-id="8f881b72f460fbac380283ad5d6e418809bf78f2544cf0859538e323c9b8dd63">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -152,7 +152,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -245,7 +245,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="YTiKhTomddiSjzSXIB-BfAvVBKRKQeCn-8T17lNtEErAxJml-u7Aa7za_28zxCRwJUEwvETJPM6_cjOjKNTzvQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="OozdVLaP2Dxm9wDyZmXucYMjp3PK86-Fxh4f4k5S3B2bcM50dkdtj0iiywp1vkt9rbeTa8R7c-yCqNmvNes_6g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -444,7 +444,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;IsraelFabra&quot;,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="2e20a0ee75cbffbc82f957a4e601ed34eb103e33d6fa7829c058eec2d70be29f" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;IsraelFabra&quot;,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="bc826c3232d5aa7e2c0ced34f10c382ce8edbd59448ae6aeb5912acdcfd24b10" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -452,7 +452,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/120408854?s=40&amp;v=4" width="20" height="20" alt="@IsraelFabra" />
       IsraelFabra
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xcsj_vS1LCBEe6Fvk3a7dLLMlHK44NUNuicAZYrWqlkqda-25oAF2xcd3s9YH0OVIKazxv2ZyaVq_RQXmmkpWA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Eh5HIoUirAhIL38V7-yoPzvBgkLLKvGhqra-m6emqXb9oMtqlxeF8xtJALUkhVDeqaul9o5T7Ql6bKrptxkqdw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -487,7 +487,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIwNDA4ODU0IiwidCI6MTY4MjQwMTE5M30=--cd46944aeb794b1e45f1a9ca886f00f4abb96bd9095a3bbc79162887ec22c734" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIwNDA4ODU0IiwidCI6MTY4MjQwMTI0OX0=--6ffce9521a4d97c245c9c025c9d44ad5763551c3881d7bb609e64283813705c9" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -643,7 +643,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIwNDA4ODU0IiwidCI6MTY4MjQwMTE5M30=--cd46944aeb794b1e45f1a9ca886f00f4abb96bd9095a3bbc79162887ec22c734" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIwNDA4ODU0IiwidCI6MTY4MjQwMTI0OX0=--6ffce9521a4d97c245c9c025c9d44ad5763551c3881d7bb609e64283813705c9" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -660,7 +660,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md
+      return-to=/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js
       user-id="120408854"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -817,7 +817,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-88c35c05-eabe-4d71-9809-24bc88f04b2f" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-dabba7e3-6f87-4da4-96be-9040e04f0c74" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1637,7 +1637,7 @@
 </svg>Edit Pins
           <span class="dropdown-caret"></span>
 </summary>        <details-menu class="SelectMenu" role="menu">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="pin-organization-repo-update-form" data-target="pin-organization-repo.form" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/pin_organization_repo" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="c8_D6iXKJuhfoPl5sMsk73kvXrdawya21WcricU1PWbiaclZeYJwqTVoq-yYFjRB8RlgTnl2Rc5q1Jsd3DFZ0A" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="pin-organization-repo-update-form" data-target="pin-organization-repo.form" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/pin_organization_repo" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fFrXQzAoKpmo2aaC8EekX176CCGx6AwxlAZ22ck0jb7t_N3wbGB82MIR9BfYmrTx1sw22JJdb0krtcZN0DDpCA" autocomplete="off" />
             <div class="SelectMenu-modal">
               <header class="SelectMenu-header">
                 <span class="SelectMenu-title">Pin to… </span>
@@ -1715,7 +1715,7 @@
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
         <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</button>    <tool-tip id="tooltip-3864a8a2-8e3d-4436-92ac-c3eca54eefd1" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Cannot fork because forking is disabled.</tool-tip>
+</button>    <tool-tip id="tooltip-87d74f0c-8024-45ba-b1a5-721ee2626a0a" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Cannot fork because forking is disabled.</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-629059756" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1730,13 +1730,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-68353f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2eca06">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-68353f"
+        id="filter-menu-2eca06"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1778,10 +1778,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fwsIL7cytlr1boOZeHQ7KZEKIUD-rtbNgULEw6pqhTDTKRqLE2UzElG2rHh74wqDUcrSf6wgHUxfWXPiM1EYuA" autocomplete="off" />
-          <input type="hidden" value="EKyQ4Hrfah3M9ISrF6J4nZL7vruzdAbrfNhK_CivjF-8joJE3ojvVWgsq0oUNUk3UjtNhOH6zWqiw_3dsZQR1w" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wXX1qaCwj-UTfkppGShcm6qIUoth6r_STO_y54MIh2ZtV-cNBOcKrbemZYgav20xakihtDNkdFOS9EXGGjMa7g" autocomplete="off" />
+          <input type="hidden" value="GBCfvjSMhAIeBxrIwVlf8GaGLAyLf0yt9yRNw67euoK0Mo0akNsBSrrfNSnCzm5apkbfM9nxhywpP_riN-UnCg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="a4427ee9a7dff74747ca9e8c8fbfa650b388c1f1c3d7e6b22ef6d13c1f97946c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="c475cd4974c6a1d95e51d34f444ae436637093000a0124c2ccf621e185fb0a35" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Starred
@@ -1799,13 +1799,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-164a64">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-da1c87">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-164a64"
+        id="filter-menu-da1c87"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1826,9 +1826,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8Hk28bMcKYWinu6TfthZGtMuEKOiZD_0Iat6Y4Rf6F-F-sADNat-Wp31LkgFxyxX0gA2ETSVXe3xlVc-EvL_wA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EUnYjE1ks0ghqseC4A9kONfJM2dhpfo-g8O5KpEn5U9kyi5-y9Pklx7BB1mbEBF11ucV1fdUmCdT_ZR3B4ry0A" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="23e2274212fde6e0d9f97b08f658815423cca54717a48315b94d591ed30bd0cc" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="a6531e9e26cc2f51f409c497d8b17c3337f2e7d8c0f14a133c106a39fd606d49" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Star
@@ -1846,13 +1846,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2b08c8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-34e0f4">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2b08c8"
+        id="filter-menu-34e0f4"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2066,7 +2066,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/2fcc9145a4b96354b17db2f70508481a3c0376ba/server.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2074,7 +2074,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="88d54c3f6506331b5311874300c4659d69842698b6ce66eb47cd12f423718dd8">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="d687a2782cae79f7153a077d5f874b65d0db5d1d3603530c79a2d43e5fddcbd4">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2142,10 +2142,10 @@
     <create-repo-from-selector
       check-tag-name-exists-path="/CIFO-Violeta-IFCD0111-2223/Proyectos/branches/check_tag_name_exists"
     >
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wO4gOoSn6SsaYCGq68cwBZvwwtR42mT6j4ylelsA9xxyZBeSfszBnacTcjZgUqAystrsLlpXetqphH1aisGRDw" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PYK2xQvcsTGhDzsE-dkHjpeyQhLlv5SgycaodO71GOaPCIFt8beZhxx8aJhyTJe5vphs6McyioDvznBUPzR-9Q" />
         <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
         <input type="hidden" name="branch"  value="main">
-        <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
+        <input type="hidden" name="path_binary" value="c2VydmVyLmpz">
 
         <button
           class="SelectMenu-item wb-break-word"
@@ -2153,14 +2153,14 @@
           role="menuitem"
           data-index="{{ index }}"
           data-action="click:create-repo-from-selector#createBranch"
-          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:629059756,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="9674abb9ac97731408861681f0bb6a7854e865f3f4dff6740c00c2b0525680ec">
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:629059756,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="e428d5de0703835b3eefa73de8d869d209da59c0fd49185dae306326a5191116">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
 </svg>
           <div>
             <span class="text-bold">Create branch: {{ refName }}</span>
             <span class="color-fg-muted">from ‘main’</span>
-            <input type="hidden" value="86nRWj5-e66Q82gaRUmrb2zzNMVS6h2NsOjE7IcLRarhbOYaK6u8r7Vfod4alshuvqEW157K8gmzKRX9MaNjLA" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+            <input type="hidden" value="B7SiC9uSOxk6WZvYfBFZNcrGVYj0F5ZW2XbCp6Q958wVcZVLzkf8GB_1Uhwjzjo0GJR3mjg3edLatxO2EpXBSg" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
           </div>
         </button>
 </form>    </create-repo-from-selector>
@@ -2179,7 +2179,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/{{ urlEncodedRefName }}/server.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2221,7 +2221,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/{{ urlEncodedRefName }}/server.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2282,7 +2282,42 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/CIFO-Violeta-IFCD0111-2223/Proyectos"><span>Proyectos</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/CIFO-Violeta-IFCD0111-2223/Proyectos"><span>Proyectos</span></a></span></span><span class="separator">/</span><strong class="final-path">server.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:629059756,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="b2386d735647d43b087acb1c5e8b03289ab30e5cdcd6d6362ce8702716e33d21" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        </button>
+      </header>
+      <div class="SelectMenu-list">
+          <div class="SelectMenu-blankslate">
+            <p class="mb-0 color-fg-muted">
+              No definitions found in this file.
+            </p>
+          </div>
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation not available for this commit
+          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/CIFO-Violeta-IFCD0111-2223/Proyectos/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2293,7 +2328,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="5a5032489e9dfb6d5271010a37f4e2c49206bf8b8010948597d84acb2d66c5be" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="b83a957ac728db5b8b6aae1cc7ee54d7eed9cb263c1862c2a409460a025d1a86" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2303,15 +2338,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="server.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/2fcc9145a4b96354b17db2f70508481a3c0376ba/server.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2342,80 +2383,17 @@
     <include-fragment src="/CIFO-Violeta-IFCD0111-2223/Proyectos/spoofed_commit_check/2fcc9145a4b96354b17db2f70508481a3c0376ba" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/armandolap/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/armandolap"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/47246587?s=48&amp;v=4" width="24" height="24" alt="@armandolap" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/armandolap/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/armandolap">armandolap</a>
+  <include-fragment src="/CIFO-Violeta-IFCD0111-2223/Proyectos/contributors/main/server.js" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="deploy fin 240423" class="Link--secondary" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/commit/2fcc9145a4b96354b17db2f70508481a3c0376ba">deploy fin 240423</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/CIFO-Violeta-IFCD0111-2223/Proyectos/commit/2fcc9145a4b96354b17db2f70508481a3c0376ba/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/commit/2fcc9145a4b96354b17db2f70508481a3c0376ba" data-pjax>2fcc914</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-04-24T17:24:39Z" class="no-wrap">Apr 24, 2023</relative-time></span>
-          </span>
-
-          <a data-pjax href="/CIFO-Violeta-IFCD0111-2223/Proyectos/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/CIFO-Violeta-IFCD0111-2223/Proyectos/contributors-list/main/README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2428,88 +2406,31 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}"
-  data-menu-hydro-click-hmac="a50bf826289ebf9dfa328a80c0d37737d1e905ede1443797a6afd85ec1112eee"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#proyectos">Proyectos</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#guía-para-el-desarrollo">GUÍA PARA EL DESARROLLO</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#1--para-iniciar-un-proyecto-en-nodejs-añadimos-en-la-terminal-el-siguiente-comando">1- Para iniciar un proyecto en NodeJS añadimos en la terminal el siguiente comando</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#este-comando-crea-una-archivo-packagejson-que-contiene-la-info-de-nuestro-proyecto-y-las-dependencias-necesarias-para-su-funcionamiento">Este comando crea una archivo "package.json" que contiene la info de nuestro proyecto y las dependencias necesarias para su funcionamiento.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#2--para-instalar-paquetes-dependencias-en-nuestro-proyecto-utilizamos-el-gestos-de-paquetes-npm-instalamos-express-web-server">2- Para instalar paquetes (dependencias) en nuestro proyecto, utilizamos el gestos de paquetes "npm". Instalamos "express" (web server):</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#3--si-iniciamos-un-proyecto-clonado-por-primera-vez-desde-github-para-que-se-instalen-todos-los-paquetes-necesarios-irá-a-mirar-el-packagejson">3- Si iniciamos un proyecto clonado por primera vez desde Github, para que se instalen todos los paquetes necesarios (Irá a mirar el package.json):</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#4--documentación-de-node-express-webserver">4- Documentación de Node Express (webserver):</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#5--para-que-el-servidor-se-reinicie-cada-vez-que-detecta-un-cambio-en-el-código-instalamos-el-paquete-modo-desarrollo">5- Para que el servidor se reinicie cada vez que detecta un cambio en el código, instalamos el paquete (modo desarrollo):</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#6--para-que-funcione-en-windows-añadir-en-el-terminal">6- Para que funcione en Windows añadir en el terminal:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#deploy">DEPLOY</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="25380c5ea17588a9aac4656aa934cc9a392a5e79f8cef64da8805e3fd1f210b0" href="#7--ejemplo-de-despliegue-deploy-de-la-app-en-railway-proveedor-gratuito">7- Ejemplo de despliegue (deploy) de la app en "railway" (proveedor gratuito):</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      85 lines (63 sloc)
+      71 lines (59 sloc)
       <span class="file-info-divider"></span>
-    2.7 KB
+    2.2 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md?plain=1" data-permalink-href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a>      <a href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md" data-permalink-href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/2fcc9145a4b96354b17db2f70508481a3c0376ba/server.js" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/main/server.js" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/main/README.md" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/2fcc9145a4b96354b17db2f70508481a3c0376ba/server.js" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/main/server.js" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2518,7 +2439,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SV6ymQX-IN72OvSFSyLpR1bYOr625GKV9DEBp4gZoflbqVe7Pwtbnu7OJjr5ROyz1PFBPwdHlYatNr9G0ftpbw" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/edit/main/server.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2HfFaMGGYkwkAUXRos0nVfFyzBzsdNvGGxK8z79c4VnQbnSkpz0Bfe-pYg891zsbG4hXyOI2Srm-2muaUPER7w" autocomplete="off" />
       <button title="Edit this file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -2528,7 +2449,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="b13OwFPGTAPjQtV6jTm8zAr2eiiBSE1BVNkIxYc-4EN9qiviaTM3Q_u2B8U_X7k4iN8BqTDrulIN3rYk3two1Q" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/edit/main/server.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WOlO0KZenBfMQhQnC3Xl26WD72IfGw2IUPpuOb3__LhQ8P8cwOX_JgfqM_mUb_mVT3l0thFZnPf1MrlsUlIMDg" autocomplete="off" />
               <button title="Edit this file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2547,10 +2468,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/2fcc9145a4b96354b17db2f70508481a3c0376ba/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/2fcc9145a4b96354b17db2f70508481a3c0376ba/server.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="9130069be78db6c5bbe25c26a1afe9dac0229e981503d397a9ed42e79d8aa406" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="715945f59c621b00fb7f0158b46e68db929d2f37ec6ecfe55dce68aefddd2c46" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -2575,7 +2496,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hk8_ZjeSrnXGNT2--7YA_9eFshr2Fo6_7tZbLDoqd-WoftI_Ir4W86WaTth8fjv8cZBPI_A6YI0vjQ4NtADIMA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/CIFO-Violeta-IFCD0111-2223/Proyectos/delete/main/server.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6WgDTxnHkZGdUfAkVBCP1aRISKvfPZmledRTD6ePuLGZp1DxEahzHUbIo9kpazeTRg7x_hUXIbPUB0A7Kg-AUQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2588,7 +2509,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="Possible actions"
           
@@ -2608,15 +2529,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/main/README.md">
+            <a class="dropdown-item" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/main/server.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/CIFO-Violeta-IFCD0111-2223/Proyectos/raw/main/server.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/README.md&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="9130069be78db6c5bbe25c26a1afe9dac0229e981503d397a9ed42e79d8aa406">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:629059756,&quot;originating_url&quot;:&quot;https://github.com/CIFO-Violeta-IFCD0111-2223/Proyectos/blob/main/server.js&quot;,&quot;user_id&quot;:120408854}}" data-hydro-click-hmac="715945f59c621b00fb7f0158b46e68db929d2f37ec6ecfe55dce68aefddd2c46">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2639,20 +2560,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/main/README.md">
+              <a class="dropdown-item" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/main/server.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/edit/main/server.js">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:629059756,&quot;actor_id&quot;:120408854,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/delete/main/server.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2660,91 +2581,360 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-proyectos" class="anchor" aria-hidden="true" href="#proyectos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Proyectos</h1>
-<p dir="auto">Rama desarrollo de una webapp en html/css/js/node-express/mysql</p>
-<h1 dir="auto"><a id="user-content-guía-para-el-desarrollo" class="anchor" aria-hidden="true" href="#guía-para-el-desarrollo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>GUÍA PARA EL DESARROLLO</h1>
-<h2 dir="auto"><a id="user-content-1--para-iniciar-un-proyecto-en-nodejs-añadimos-en-la-terminal-el-siguiente-comando" class="anchor" aria-hidden="true" href="#1--para-iniciar-un-proyecto-en-nodejs-añadimos-en-la-terminal-el-siguiente-comando"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>1- Para iniciar un proyecto en NodeJS añadimos en la terminal el siguiente comando</h2>
-<p dir="auto"><code>npm init</code></p>
-<h3 dir="auto"><a id="user-content-este-comando-crea-una-archivo-packagejson-que-contiene-la-info-de-nuestro-proyecto-y-las-dependencias-necesarias-para-su-funcionamiento" class="anchor" aria-hidden="true" href="#este-comando-crea-una-archivo-packagejson-que-contiene-la-info-de-nuestro-proyecto-y-las-dependencias-necesarias-para-su-funcionamiento"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Este comando crea una archivo "package.json" que contiene la info de nuestro proyecto y las dependencias necesarias para su funcionamiento.</h3>
-<h3 dir="auto"><a id="user-content-2--para-instalar-paquetes-dependencias-en-nuestro-proyecto-utilizamos-el-gestos-de-paquetes-npm-instalamos-express-web-server" class="anchor" aria-hidden="true" href="#2--para-instalar-paquetes-dependencias-en-nuestro-proyecto-utilizamos-el-gestos-de-paquetes-npm-instalamos-express-web-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>2- Para instalar paquetes (dependencias) en nuestro proyecto, utilizamos el gestos de paquetes "npm". Instalamos "express" (web server):</h3>
-<p dir="auto"><code>npm install express</code></p>
-<h3 dir="auto"><a id="user-content-3--si-iniciamos-un-proyecto-clonado-por-primera-vez-desde-github-para-que-se-instalen-todos-los-paquetes-necesarios-irá-a-mirar-el-packagejson" class="anchor" aria-hidden="true" href="#3--si-iniciamos-un-proyecto-clonado-por-primera-vez-desde-github-para-que-se-instalen-todos-los-paquetes-necesarios-irá-a-mirar-el-packagejson"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>3- Si iniciamos un proyecto clonado por primera vez desde Github, para que se instalen todos los paquetes necesarios (Irá a mirar el package.json):</h3>
-<p dir="auto"><code>npm install</code></p>
-<h3 dir="auto"><a id="user-content-4--documentación-de-node-express-webserver" class="anchor" aria-hidden="true" href="#4--documentación-de-node-express-webserver"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>4- Documentación de Node Express (webserver):</h3>
-<ul dir="auto">
-<li><a href="https://expressjs.com/es/" rel="nofollow">https://expressjs.com/es/</a></li>
-</ul>
-<h3 dir="auto"><a id="user-content-5--para-que-el-servidor-se-reinicie-cada-vez-que-detecta-un-cambio-en-el-código-instalamos-el-paquete-modo-desarrollo" class="anchor" aria-hidden="true" href="#5--para-que-el-servidor-se-reinicie-cada-vez-que-detecta-un-cambio-en-el-código-instalamos-el-paquete-modo-desarrollo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>5- Para que el servidor se reinicie cada vez que detecta un cambio en el código, instalamos el paquete (modo desarrollo):</h3>
-<p dir="auto"><code>npm i nodemon -g -D</code></p>
-<h3 dir="auto"><a id="user-content-6--para-que-funcione-en-windows-añadir-en-el-terminal" class="anchor" aria-hidden="true" href="#6--para-que-funcione-en-windows-añadir-en-el-terminal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>6- Para que funcione en Windows añadir en el terminal:</h3>
-<p dir="auto"><code>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser</code></p>
-<h1 dir="auto"><a id="user-content-deploy" class="anchor" aria-hidden="true" href="#deploy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>DEPLOY</h1>
-<h3 dir="auto"><a id="user-content-7--ejemplo-de-despliegue-deploy-de-la-app-en-railway-proveedor-gratuito" class="anchor" aria-hidden="true" href="#7--ejemplo-de-despliegue-deploy-de-la-app-en-railway-proveedor-gratuito"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>7- Ejemplo de despliegue (deploy) de la app en "railway" (proveedor gratuito):</h3>
-<p dir="auto">1- <a href="https://railway.app/" rel="nofollow">https://railway.app/</a>
-2- Desinstalar el paquete "mysql" e instalar "mysql2"</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="npm uninstal mysql
-npm install mysql2"><pre class="notranslate"><code>npm uninstal mysql
-npm install mysql2
-</code></pre></div>
-<p dir="auto">3- Realizar los siguientes cambios en el código del proyecto:</p>
-<ul dir="auto">
-<li>Cambiar la constante "port" añadiendo la variable de entorno "PORT" (el puerto que utilizará "railway)</li>
-</ul>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="const port = process.env.PORT || 3000;"><pre class="notranslate"><code>const port = process.env.PORT || 3000;
-</code></pre></div>
-<p dir="auto">4- Crear un proyecto nuevo en "railway" -&gt; "Provision MYSQL":
-5- En la base de datos creada, ir a la pestaña "query" y añadir nuestro código sql que crea la tabla:</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="create table dato (
-	id int primary key auto_increment,
-    dato varchar(255)
-);
-"><pre class="notranslate"><code>create table dato (
-	id int primary key auto_increment,
-    dato varchar(255)
-);
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
-</code></pre></div>
-<p dir="auto">6- Ir a la pestaña de "Connect" -&gt; "Available Variables" y copiar los datos de acceso en nuestro código del proyecto:</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="const pool = mysql.createPool({
-  host: process.env.HOST || 'localhost',
-  user: process.env.USER || 'root',
-  password: process.env.PASSWORD || '',
-  database: process.env.NAME || 'proyecto',
-  port: process.env.PORT || 3306,
-  connectionLimit: 10
-});"><pre class="notranslate"><code>const pool = mysql.createPool({
-  host: process.env.HOST || 'localhost',
-  user: process.env.USER || 'root',
-  password: process.env.PASSWORD || '',
-  database: process.env.NAME || 'proyecto',
-  port: process.env.PORT || 3306,
-  connectionLimit: 10
-});
-</code></pre></div>
-<p dir="auto">7- Añadir esta linea en la prop de "scripts" en el "package.json":</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&quot;start&quot;: &quot;node server.js&quot;"><pre class="notranslate"><code>"start": "node server.js"
-</code></pre></div>
-<p dir="auto">8- Crear un nuevo proyecto "GitHub Repo", conectar con tu cuenta de GitHub y seleccionar el repositorio que quieres deplegar.</p>
-<p dir="auto">9- Entrar en la pestaña "variables" y añadir las 5 variables de entorno de conexion a la DB:</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="HOST *******
-NAME *******
-PASSWORD *******
-PORT *******
-USER *******"><pre class="notranslate"><code>HOST *******
-NAME *******
-PASSWORD *******
-PORT *******
-USER *******
-</code></pre></div>
-<p dir="auto">10- En los "settings" del proyecto, crear un dominio. Esta URL es donde apunta a nuestra webapp.</p>
-<p dir="auto">11- Si ha habido algun error en el depliegue o app, clickar en el propio despliegue -&gt; "Deploy Logs"</p>
-</article>
-  </div>
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="server.js">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// importar el modulo de &quot;express&quot; de la carpeta &quot;node_modules&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>express</span> <span class=pl-c1>=</span> <span class=pl-en>require</span><span class=pl-kos>(</span><span class=pl-s>&#39;express&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Creamos un objeto &quot;app&quot; a traves del modulo (clase) de express</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>app</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-s1>express</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// puerto por el que el servidor local escucha. &quot;http://localhost:3000&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>port</span> <span class=pl-c1>=</span> <span class=pl-s1>process</span><span class=pl-kos>.</span><span class=pl-c1>env</span><span class=pl-kos>.</span><span class=pl-c1>PORT</span> <span class=pl-c1>||</span> <span class=pl-c1>3000</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// DATABASE</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// importamos modulo de mysql</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>mysql</span> <span class=pl-c1>=</span> <span class=pl-en>require</span><span class=pl-kos>(</span><span class=pl-s>&#39;mysql2&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>pool</span> <span class=pl-c1>=</span> <span class=pl-s1>mysql</span><span class=pl-kos>.</span><span class=pl-en>createPool</span><span class=pl-kos>(</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>host</span>: <span class=pl-s1>process</span><span class=pl-kos>.</span><span class=pl-c1>env</span><span class=pl-kos>.</span><span class=pl-c1>HOST</span> <span class=pl-c1>||</span> <span class=pl-s>&#39;localhost&#39;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>user</span>: <span class=pl-s1>process</span><span class=pl-kos>.</span><span class=pl-c1>env</span><span class=pl-kos>.</span><span class=pl-c1>USER</span> <span class=pl-c1>||</span> <span class=pl-s>&#39;root&#39;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>password</span>: <span class=pl-s1>process</span><span class=pl-kos>.</span><span class=pl-c1>env</span><span class=pl-kos>.</span><span class=pl-c1>PASSWORD</span> <span class=pl-c1>||</span> <span class=pl-s>&#39;&#39;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>database</span>: <span class=pl-s1>process</span><span class=pl-kos>.</span><span class=pl-c1>env</span><span class=pl-kos>.</span><span class=pl-c1>NAME</span> <span class=pl-c1>||</span> <span class=pl-s>&#39;proyecto&#39;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>port</span>: <span class=pl-s1>process</span><span class=pl-kos>.</span><span class=pl-c1>env</span><span class=pl-kos>.</span><span class=pl-c1>PORT</span> <span class=pl-c1>||</span> <span class=pl-c1>3306</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>connectionLimit</span>: <span class=pl-c1>10</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>pool</span><span class=pl-kos>.</span><span class=pl-en>getConnection</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>err</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>err</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s>&quot;Error en la conexion a la DB: error-&gt;&quot;</span><span class=pl-kos>,</span> <span class=pl-s1>err</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span> <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s>&quot;Conexion a la DB correcta!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// MIDDLEWARES</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// middleware que gestiona los mensajes JSON</span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span><span class=pl-kos>.</span><span class=pl-en>use</span><span class=pl-kos>(</span><span class=pl-s1>express</span><span class=pl-kos>.</span><span class=pl-en>json</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// middleware que configura el directorio de los archivos estáticos (img, css, js....)</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span><span class=pl-kos>.</span><span class=pl-en>use</span><span class=pl-kos>(</span><span class=pl-s1>express</span><span class=pl-kos>.</span><span class=pl-en>static</span><span class=pl-kos>(</span><span class=pl-s>&#39;public&#39;</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// rutas: Se establecen las rutas configuradas para este server, mediante los métodos GET, POST, PUT, DELETE.</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Estos métodos gestionan las peticiones (req) y respuestas (res) mediante un callback</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Ruta 1- En este caso devuelve al cliente un texto plano &quot;Hello World!&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span><span class=pl-kos>.</span><span class=pl-en>get</span><span class=pl-kos>(</span><span class=pl-s>&#39;/hello_world&#39;</span><span class=pl-kos>,</span> <span class=pl-kos>(</span><span class=pl-s1>req</span><span class=pl-kos>,</span> <span class=pl-s1>res</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>send</span><span class=pl-kos>(</span><span class=pl-s>&#39;Hello World !&#39;</span><span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Ruta 2- En este caso devuelve al cliente un archivo html</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// __dirname: ruta absoluta del server donde se alberga el proyecto</span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// ESTA RUTA LA UTILIZAMOS PARA EL ENVÍO DEL FORM AL CLIENTE</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span><span class=pl-kos>.</span><span class=pl-en>get</span><span class=pl-kos>(</span><span class=pl-s>&#39;/&#39;</span><span class=pl-kos>,</span> <span class=pl-kos>(</span><span class=pl-s1>req</span><span class=pl-kos>,</span> <span class=pl-s1>res</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>sendFile</span><span class=pl-kos>(</span><span class=pl-s1>__dirname</span> <span class=pl-c1>+</span> <span class=pl-s>&#39;/public/index.html&#39;</span><span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// RUTA QUE RECOGE EL DATO DEL FORM DEL CLIENTE</span></td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span><span class=pl-kos>.</span><span class=pl-en>post</span><span class=pl-kos>(</span><span class=pl-s>&#39;/dato&#39;</span><span class=pl-kos>,</span> <span class=pl-kos>(</span><span class=pl-s1>req</span><span class=pl-kos>,</span> <span class=pl-s1>res</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>dato</span> <span class=pl-c1>=</span> <span class=pl-s1>req</span><span class=pl-kos>.</span><span class=pl-c1>body</span><span class=pl-kos>.</span><span class=pl-c1>dato</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class=pl-c>// INSERTAR EL DATO EN LA DATABASE</span></td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>sql</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;insert into dato values(default,&#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>dato</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39;);&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>sql</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>pool</span><span class=pl-kos>.</span><span class=pl-en>query</span><span class=pl-kos>(</span><span class=pl-s1>sql</span><span class=pl-kos>,</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-s1>err</span><span class=pl-kos>,</span> <span class=pl-s1>result</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>err</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>json</span><span class=pl-kos>(</span><span class=pl-s>&quot;Ha ocurrido un error en la inserción del dato&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span> <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>res</span><span class=pl-kos>.</span><span class=pl-en>json</span><span class=pl-kos>(</span><span class=pl-s>&quot;Dato insertado en la DB OK!!!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Crea el webserver y escucha por el puerto 3000, devolviendo un mensaje por consola</span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span><span class=pl-kos>.</span><span class=pl-en>listen</span><span class=pl-kos>(</span><span class=pl-s1>port</span><span class=pl-kos>,</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s>`Example app listening on port <span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>port</span><span class=pl-kos>}</span></span>`</span><span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/blame/2fcc9145a4b96354b17db2f70508481a3c0376ba/server.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/CIFO-Violeta-IFCD0111-2223/Proyectos/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
@@ -2757,6 +2947,17 @@ USER *******
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/CIFO-Violeta-IFCD0111-2223/Proyectos/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
